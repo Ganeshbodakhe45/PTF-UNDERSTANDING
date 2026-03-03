@@ -28,7 +28,7 @@
 
 ### What is This Module?
 
-The `siti_ptf_batch` module is a **batch processing framework** for the **SITI Portfolio Trading Finance (PTF)** system. It's a Java-based command-line application that:
+The `siti_ptf_batch` module is a **batch processing framework** for the **SITI PTF** system. It's a Java-based command-line application that:
 
 - Executes batch jobs remotely by calling REST APIs
 - Manages authentication with OAuth2/SG-Connect
